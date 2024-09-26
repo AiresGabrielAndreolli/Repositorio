@@ -1,0 +1,6 @@
+.box {
+    height: 400px;
+    width: 600px;
+    color: blueviolet;
+    background: linear-gradient(50deg, black, blue);
+}
